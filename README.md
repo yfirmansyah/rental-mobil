@@ -1,3 +1,12 @@
+# Aplikasi CodeIgniter 4 Rental Mobil
+# Nama Kelompok 6 :
+Nama Kelompok 6 :
+1. 14197057 - Nurul Hikmah Hilda
+2. 14197034 - Rivan Disahayyan
+3. 14197036 - Ruli Irawan
+4. 14197061 - Yusuf Firmansyah
+5. 14197073 - Taufik Reynaldi
+
 # CodeIgniter 4 Development
 
 [![Build Status](https://github.com/codeigniter4/CodeIgniter4/workflows/PHPUnit/badge.svg)](https://github.com/codeigniter4/CodeIgniter4/actions?query=workflow%3A%22PHPUnit%22)
